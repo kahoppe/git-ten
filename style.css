@@ -231,3 +231,11 @@ footer {
 .footer-text {
   color: #fff;
 }
+
+
+
+@media screen and (display: flex) {
+  main {
+    display: block;
+  }
+}
